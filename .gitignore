@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.env
+
+# PyCharm / VSCode settings
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# local files
+*.log
