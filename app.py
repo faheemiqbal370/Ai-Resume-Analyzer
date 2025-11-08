@@ -119,6 +119,7 @@ if uploaded is not None:
     else:
         st.write("No missing skills (or none detected in JD).")
 
+
     # allow download
     if jd_skills:
         out_df = pd.DataFrame({
